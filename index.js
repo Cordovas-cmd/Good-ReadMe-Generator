@@ -109,7 +109,18 @@ function promptUser(){
         `; 
     }
 // TODO: Create a function to initialize app
-function init() {}
+async function init() {
+    console.log("Welcome to my Good-README generator!");
+    try{
+        const answers=await promptUser();
+        const md=generateMD(answers);
+        await writeFileAsync("README.md",md);
+        console.log("Success README.md complete!!");
+    } catch(err){
+        console.log(err);
+    }
+}
+// function init() {}
 
 // Function call to initialize app
 init();
