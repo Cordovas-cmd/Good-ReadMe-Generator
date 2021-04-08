@@ -1,3 +1,4 @@
+![Screenshot (1629)](https://user-images.githubusercontent.com/76268942/113965682-745c8680-97f3-11eb-9de2-e153a4a7d86a.png)
 
 # Good-Readme-Generator
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
