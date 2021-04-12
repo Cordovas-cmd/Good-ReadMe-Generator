@@ -1,8 +1,8 @@
 
-# Good-Readme-Generator
+# Good-README generator!
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-         Lets the user write a readme with a node.js prompt 
+         A node app that will create a readme file based on user input
 ## Table of contents
 * [Description](#description)
 * [Installation](#installation)
@@ -12,16 +12,16 @@ MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](ht
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-            Run with index.node.js
+            This app requires inquirer, please run npm install inquirer and then run node index.js
 ## Usage 
-            To easily write readme.md files with appropriate format
+            To generate a README file 
 ## License
             MIT
-            MIT
+            Covered by MIT
 ## Contributions
-            none
+            Samuel Cordova
 ## Tests
-            use it well
+            Can be manually tested
 ## Questions
     For questions regarding this application please contact me at:
         - E-mail cordovas1337@gmail.com
